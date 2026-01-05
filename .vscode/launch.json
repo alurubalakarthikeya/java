@@ -1,0 +1,304 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "topThreeAvg",
+      "request": "launch",
+      "mainClass": "topThreeAvg",
+      "projectName": "java_ea27761a"
+    },
+    {
+      "type": "java",
+      "name": "topTwoAvg",
+      "request": "launch",
+      "mainClass": "topTwoAvg",
+      "projectName": "java_ea27761a"
+    },
+    {
+      "type": "java",
+      "name": "hollowSquare",
+      "request": "launch",
+      "mainClass": "hollowSquare",
+      "projectName": "java_ea27761a"
+    },
+    {
+      "type": "java",
+      "name": "threeSiblings",
+      "request": "launch",
+      "mainClass": "threeSiblings",
+      "projectName": "java_ea27761a"
+    },
+    {
+      "type": "java",
+      "name": "siblingsAge",
+      "request": "launch",
+      "mainClass": "siblingsAge",
+      "projectName": "java_ea27761a"
+    },
+    {
+      "type": "java",
+      "name": "friendBestFriend",
+      "request": "launch",
+      "mainClass": "friendBestFriend",
+      "projectName": "java_ea27761a"
+    },
+    {
+      "type": "java",
+      "name": "familySentence",
+      "request": "launch",
+      "mainClass": "familySentence",
+      "projectName": "java_ea27761a"
+    },
+    {
+      "type": "java",
+      "name": "ageSentence",
+      "request": "launch",
+      "mainClass": "ageSentence",
+      "projectName": "java_ea27761a"
+    },
+    {
+      "type": "java",
+      "name": "factorsOfN",
+      "request": "launch",
+      "mainClass": "Patterns.factorsOfN",
+      "projectName": "java_ea27761a"
+    },
+    {
+      "type": "java",
+      "name": "diamondFor",
+      "request": "launch",
+      "mainClass": "Patterns.diamondFor",
+      "projectName": "java_ea27761a"
+    },
+    {
+      "type": "java",
+      "name": "nameSentence",
+      "request": "launch",
+      "mainClass": "nameSentence",
+      "projectName": "java_ea27761a"
+    },
+    {
+      "type": "java",
+      "name": "factorsOfN",
+      "request": "launch",
+      "mainClass": "factorsOfN",
+      "projectName": "java_ea27761a"
+    },
+    {
+      "type": "java",
+      "name": "diamondFor",
+      "request": "launch",
+      "mainClass": "diamondFor",
+      "projectName": "java_ea27761a"
+    },
+    {
+      "type": "java",
+      "name": "pyramidIf",
+      "request": "launch",
+      "mainClass": "pyramidIf",
+      "projectName": "java_ea27761a"
+    },
+    {
+      "type": "java",
+      "name": "pyramidFors",
+      "request": "launch",
+      "mainClass": "pyramidFors",
+      "projectName": "java_ea27761a"
+    },
+    {
+      "type": "java",
+      "name": "leftAngledTriIf",
+      "request": "launch",
+      "mainClass": "leftAngledTriIf",
+      "projectName": "java_ea27761a"
+    },
+    {
+      "type": "java",
+      "name": "leftAngledTri",
+      "request": "launch",
+      "mainClass": "leftAngledTri",
+      "projectName": "java_ea27761a"
+    },
+    {
+      "type": "java",
+      "name": "rightAngledTri",
+      "request": "launch",
+      "mainClass": "rightAngledTri",
+      "projectName": "java_ea27761a"
+    },
+    {
+      "type": "java",
+      "name": "triangle",
+      "request": "launch",
+      "mainClass": "triangle",
+      "projectName": "java_ea27761a"
+    },
+    {
+      "type": "java",
+      "name": "rectangle",
+      "request": "launch",
+      "mainClass": "rectangle",
+      "projectName": "java_ea27761a"
+    },
+    {
+      "type": "java",
+      "name": "square",
+      "request": "launch",
+      "mainClass": "square",
+      "projectName": "java_ea27761a"
+    },
+    {
+      "type": "java",
+      "name": "midProb6",
+      "request": "launch",
+      "mainClass": "midProb6",
+      "projectName": "java_ea27761a"
+    },
+    {
+      "type": "java",
+      "name": "midProb5",
+      "request": "launch",
+      "mainClass": "midProb5",
+      "projectName": "java_ea27761a"
+    },
+    {
+      "type": "java",
+      "name": "midProb4",
+      "request": "launch",
+      "mainClass": "midProb4",
+      "projectName": "java_ea27761a"
+    },
+    {
+      "type": "java",
+      "name": "midProb3",
+      "request": "launch",
+      "mainClass": "midProb3",
+      "projectName": "java_ea27761a"
+    },
+    {
+      "type": "java",
+      "name": "midProb2",
+      "request": "launch",
+      "mainClass": "midProb2",
+      "projectName": "java_ea27761a"
+    },
+    {
+      "type": "java",
+      "name": "midProb1",
+      "request": "launch",
+      "mainClass": "midProb1",
+      "projectName": "java_ea27761a"
+    },
+    {
+      "type": "java",
+      "name": "esProb12",
+      "request": "launch",
+      "mainClass": "esProb12",
+      "projectName": "java_ea27761a"
+    },
+    {
+      "type": "java",
+      "name": "esProb11",
+      "request": "launch",
+      "mainClass": "esProb11",
+      "projectName": "java_ea27761a"
+    },
+    {
+      "type": "java",
+      "name": "esProb10",
+      "request": "launch",
+      "mainClass": "esProb10",
+      "projectName": "java_ea27761a"
+    },
+    {
+      "type": "java",
+      "name": "esProb9",
+      "request": "launch",
+      "mainClass": "esProb9",
+      "projectName": "java_ea27761a"
+    },
+    {
+      "type": "java",
+      "name": "esProb8",
+      "request": "launch",
+      "mainClass": "esProb8",
+      "projectName": "java_ea27761a"
+    },
+    {
+      "type": "java",
+      "name": "esProb7",
+      "request": "launch",
+      "mainClass": "esProb7",
+      "projectName": "java_ea27761a"
+    },
+    {
+      "type": "java",
+      "name": "esProb6",
+      "request": "launch",
+      "mainClass": "esProb6",
+      "projectName": "java_ea27761a"
+    },
+    {
+      "type": "java",
+      "name": "esProb5",
+      "request": "launch",
+      "mainClass": "esProb5",
+      "projectName": "java_ea27761a"
+    },
+    {
+      "type": "java",
+      "name": "esProb4",
+      "request": "launch",
+      "mainClass": "esProb4",
+      "projectName": "java_ea27761a"
+    },
+    {
+      "type": "java",
+      "name": "esProb3",
+      "request": "launch",
+      "mainClass": "esProb3",
+      "projectName": "java_ea27761a"
+    },
+    {
+      "type": "java",
+      "name": "esProb2",
+      "request": "launch",
+      "mainClass": "esProb2",
+      "projectName": "java_ea27761a"
+    },
+    {
+      "type": "java",
+      "name": "esProb1",
+      "request": "launch",
+      "mainClass": "esProb1",
+      "projectName": "java_ea27761a"
+    },
+    {
+      "type": "java",
+      "name": "program4",
+      "request": "launch",
+      "mainClass": "program4",
+      "projectName": "java_ea27761a"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/aluru/OneDrive/Desktop/Projects/java",
+      "program": "c:/Users/aluru/OneDrive/Desktop/Projects/java/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
