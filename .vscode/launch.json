@@ -3,6 +3,83 @@
   "configurations": [
     {
       "type": "java",
+      "name": "helloworld",
+      "request": "launch",
+      "mainClass": "helloworld",
+      "projectName": "Java_ea18ea3a"
+    },
+    {
+      "type": "java",
+      "name": "selectionSort",
+      "request": "launch",
+      "mainClass": "selectionSort",
+      "projectName": "Java_ea18ea3a"
+    },
+    {
+      "type": "java",
+      "name": "insertionSort",
+      "request": "launch",
+      "mainClass": "insertionSort",
+      "projectName": "Java_ea18ea3a"
+    },
+    {
+      "type": "java",
+      "name": "BubbleSort",
+      "request": "launch",
+      "mainClass": "BubbleSort",
+      "projectName": "Java_ea18ea3a"
+    },
+    {
+      "type": "java",
+      "name": "BinarySearch",
+      "request": "launch",
+      "mainClass": "BinarySearch",
+      "projectName": "Java_ea18ea3a"
+    },
+    {
+      "type": "java",
+      "name": "LinearSearch",
+      "request": "launch",
+      "mainClass": "LinearSearch",
+      "projectName": "Java_ea18ea3a"
+    },
+    {
+      "type": "java",
+      "name": "LinkedLists",
+      "request": "launch",
+      "mainClass": "LinkedLists.LinkedLists",
+      "projectName": "Java_ea18ea3a"
+    },
+    {
+      "type": "java",
+      "name": "keithNumber",
+      "request": "launch",
+      "mainClass": "keithNumber",
+      "projectName": "java_ea27761a"
+    },
+    {
+      "type": "java",
+      "name": "fizzBuzz",
+      "request": "launch",
+      "mainClass": "fizzBuzz",
+      "projectName": "java_ea27761a"
+    },
+    {
+      "type": "java",
+      "name": "gramToKG",
+      "request": "launch",
+      "mainClass": "gramToKG",
+      "projectName": "java_ea27761a"
+    },
+    {
+      "type": "java",
+      "name": "windMeter",
+      "request": "launch",
+      "mainClass": "windMeter",
+      "projectName": "java_ea27761a"
+    },
+    {
+      "type": "java",
       "name": "topThreeAvg",
       "request": "launch",
       "mainClass": "topThreeAvg",
