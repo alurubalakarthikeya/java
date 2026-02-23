@@ -3,6 +3,83 @@
   "configurations": [
     {
       "type": "java",
+      "name": "files",
+      "request": "launch",
+      "mainClass": "files",
+      "projectName": "Java_ea18ea3a"
+    },
+    {
+      "type": "java",
+      "name": "Flipkart",
+      "request": "launch",
+      "mainClass": "Flipkart",
+      "projectName": "Java_ea18ea3a"
+    },
+    {
+      "type": "java",
+      "name": "eUser",
+      "request": "launch",
+      "mainClass": "eUser",
+      "projectName": "Java_ea18ea3a"
+    },
+    {
+      "type": "java",
+      "name": "ecommerce",
+      "request": "launch",
+      "mainClass": "ecommerce",
+      "projectName": "Java_ea18ea3a"
+    },
+    {
+      "type": "java",
+      "name": "MyRunnable",
+      "request": "launch",
+      "mainClass": "MyRunnable",
+      "projectName": "Java_ea18ea3a"
+    },
+    {
+      "type": "java",
+      "name": "runnable",
+      "request": "launch",
+      "mainClass": "runnable",
+      "projectName": "Java_ea18ea3a"
+    },
+    {
+      "type": "java",
+      "name": "user",
+      "request": "launch",
+      "mainClass": "user",
+      "projectName": "Java_ea18ea3a"
+    },
+    {
+      "type": "java",
+      "name": "countVowels",
+      "request": "launch",
+      "mainClass": "countVowels",
+      "projectName": "Java_ea18ea3a"
+    },
+    {
+      "type": "java",
+      "name": "throwsIOException",
+      "request": "launch",
+      "mainClass": "throwsIOException",
+      "projectName": "Java_ea18ea3a"
+    },
+    {
+      "type": "java",
+      "name": "uncheckedException",
+      "request": "launch",
+      "mainClass": "uncheckedException",
+      "projectName": "Java_ea18ea3a"
+    },
+    {
+      "type": "java",
+      "name": "exceptionProgram",
+      "request": "launch",
+      "mainClass": "exceptionProgram",
+      "projectName": "Java_ea18ea3a"
+    },
+    {
+      "type": "java",
       "name": "helloworld",
       "request": "launch",
       "mainClass": "helloworld",
